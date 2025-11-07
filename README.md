@@ -6,7 +6,7 @@ This is an introductory course on the basics of the design and analysis of paral
 
 We will have seven sessions of 3 hours each (plus mini-exam, c.f. below). The first session is an introduction to algorithms, complexity, and PRAM model. The rest will be a mix of course (around 1h-1h30) and problem solving session (around 1h30-2h) on that subject.
 
-You need to add your information to the course grade sheet by the end of the second session of the course:
+You need to add your information~(master track, name, surname, e-mail address) to the course grade sheet by the end of the second session of the course:
 
 https://cirrus.universite-paris-saclay.fr/s/xfE6KQM9NtyWjMF.
 
@@ -28,6 +28,6 @@ https://www.researchgate.net/publication/241684993_Parallel_Algorithms
 # Evaluation
 
 ## End-of-session mini-exams
-At the end of weeks 4, 5, 6, 7, there will be written mini-exams of 25-30 minutes, giving 5/20 points each. The exercises will be in a similar format to what we solve in the problem solving sessions (algorithm design + complexity analysis).
+At the end of weeks 4, 5, 6, 7, there will be written mini-exams of 25-30 minutes, giving 5/20 points each. The exercises will be in a similar format to what we solve in the problem solving sessions (algorithm design + complexity analysis). You will have one or two questions in each exam (depending on the difficulty of the exercise).
 
-You can bring **four** A4 sheets (so you have eight pages in double-sided) containing your notes to the mini-exam; no other material is allowed.
+You can bring **four** A4 sheets (so you will have eight pages in double-sided) containing your notes to the mini-exam; no other material is allowed.
