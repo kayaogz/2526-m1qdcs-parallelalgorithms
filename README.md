@@ -12,6 +12,11 @@ https://cirrus.universite-paris-saclay.fr/s/xfE6KQM9NtyWjMF.
 
 Afterwards, you will not be able to see or edit the file. This is the mailing list I will use for course announcements.
 
+We will mostly follow the relevant chapters from the book "Parallel Algorithms" by Casanova, Robert:
+
+https://www.researchgate.net/publication/241684993_Parallel_Algorithms
+
+
 ## Session 1: Review of sequential algorithms, complexity analysis, RAM model, and introduction to PRAM.
 ## Session 2: PRAM (II)
 ## Session 3: PRAM (III)
